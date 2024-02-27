@@ -1,1 +1,1 @@
-Multiple scraper project file for multiple website in jupyter environment.
+scraper project file for athenahealth[dot]com in jupyter environment.
